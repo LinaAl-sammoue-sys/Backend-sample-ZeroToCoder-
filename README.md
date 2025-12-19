@@ -1,7 +1,19 @@
- Backend Sample – ZeroToCoder
+ZeroToCoder
+ 
+A comprehensive web application built with one goal: 
+to empower ambitious IT students by providing the clarity, structure, and resources needed to succeed in the tech world.
 
-This is a backend sample project developed using C# and Entity Framework Core.  
-It demonstrates basic CRUD operations and user authentication.
+What it offers:
+✅ Clear learning pathways tailored to IT majors
+✅ A high-quality, well-organized course catalog
+✅ Interactive tests and assessments
+✅ Interactive forums and a collaborative environment
+✅ A comprehensive careers platform connecting education with real-world job opportunities
+✅ Features such as course packages, vouchers, progress tracking, and certifications
+
+Front-end: ReactJS
+Back-end: ASP.NET Core Web API
+Database: Entity Framework + SQL Server
 
 ---
 
@@ -16,6 +28,7 @@ You can watch the demo video here:
 - CRUD Operations (Create, Read, Update, Delete)  
 - Database Integration  
 - ASP.NET Core & Entity Framework
+- C# , ReactJs
 
 ---
 
